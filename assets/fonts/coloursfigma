@@ -1,0 +1,6 @@
+#c1 {red-coluor: #CE2929;}                /* red in HEX format */
+#c2 {black-colour: #000000;}
+#c3 {white-colour: #FFFFFF;}
+#c4 {green-colour: #67BD70;}
+#c5 {grey-colour: #A8A6A7;}
+#c6 {orange-colour: #D87234;}
