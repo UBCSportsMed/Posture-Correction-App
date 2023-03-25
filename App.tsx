@@ -18,4 +18,19 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  lorabtext:{
+  fontFamily: 'Lora-Bold',
+  fontSize: 20, 
+  fontWeight: 'bold',
+  },
+  lorartext:{
+    fontFamily: 'Lora-Regular',
+    fontSize: 16,
+    fontWeight: 'normal',
+  },
+  notortext:{
+    fontFamily: 'NotoSerifAhom-Regular',
+    fontSize: 16,
+    fontWeight: 'normal',
+  }
 });
